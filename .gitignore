@@ -1,0 +1,15 @@
+# Binaries
+*.exe
+*.o
+*.obj
+a.out
+
+# Images
+*.pnm
+!sample.pnm
+
+# IDEs
+.vscode/
+.idea/
+.vs/
+build/
